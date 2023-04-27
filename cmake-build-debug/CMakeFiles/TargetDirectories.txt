@@ -1,0 +1,5 @@
+C:/Users/liulei/Desktop/clionprj/cppJson/cmake-build-debug/CMakeFiles/cppJson.dir
+C:/Users/liulei/Desktop/clionprj/cppJson/cmake-build-debug/CMakeFiles/test_jsoncpp.dir
+C:/Users/liulei/Desktop/clionprj/cppJson/cmake-build-debug/CMakeFiles/test_cJSON.dir
+C:/Users/liulei/Desktop/clionprj/cppJson/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liulei/Desktop/clionprj/cppJson/cmake-build-debug/CMakeFiles/rebuild_cache.dir

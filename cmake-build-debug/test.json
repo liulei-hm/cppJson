@@ -1,0 +1,30 @@
+{
+	"name":	"小明",
+	"age":	23,
+	"interest":	{
+		"basketball":	"篮球",
+		"badminton":	"羽毛球",
+		"pingpang":	"乒乓球"
+	},
+	"color":	["black", "white"],
+	"like":	[{
+			"game":	"马里奥",
+			"price":	66.6
+		}, {
+			"game":	"魂斗罗",
+			"price":	77.7
+		}],
+	"education":	[["小学", "初中"], ["高中", "大学"]],
+	"languages":	{
+		"serialOne":	{
+			"language":	"汉语",
+			"grade":	10
+		},
+		"serialTwo":	{
+			"language":	"英语",
+			"grade":	6
+		}
+	},
+	"vip":	true,
+	"address":	null
+}

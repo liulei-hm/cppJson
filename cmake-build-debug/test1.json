@@ -1,0 +1,9 @@
+{
+   "Age" : 18,
+   "E-mail" : {
+      "Google" : "789123456@gmail.com",
+      "QQ" : "789123456@qq.com"
+   },
+   "Language" : [ "C++", "Python" ],
+   "Name" : "pikashu"
+}

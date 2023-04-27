@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cppJson",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cppJson::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cppJson-Debug-95fc5d5797ac802e7151.json",
+					"name" : "cppJson",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_cJSON::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_cJSON-Debug-3005864b69bee9d4f86a.json",
+					"name" : "test_cJSON",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_jsoncpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_jsoncpp-Debug-34b71040a8881d6e7a2e.json",
+					"name" : "test_jsoncpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/liulei/Desktop/clionprj/cppJson/cmake-build-debug",
+		"source" : "C:/Users/liulei/Desktop/clionprj/cppJson"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
